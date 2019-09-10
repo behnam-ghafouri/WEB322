@@ -1,0 +1,2 @@
+In the application mainly I used get method and just in one case I used use method to send and status error 404.
+Other purpose of the program is to convert the json file which contain array of objects to the object in the program and send them to the client side.
